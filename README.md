@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1>Hi, I'm Spencer!</h1>
+<a href="https://github.com/CyberSpencer">GitHub Profile</a>
 
-<!--
-**CyberSpencer/CyberSpencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber Security Projects:</h2>
+<ul>
+    <li><b><a href="https://github.com/CyberSpencer/Cybersecurity-Projects/tree/main/Python-Packet-Sniffer">Python Packet Sniffer</a></b></li>
+    <li><b><a href="https://github.com/CyberSpencer/Cybersecurity-Projects/tree/main/TCPDump-Network-Analysis">Analyzing Network Traffic with TCPDump</a></b></li>
+    <li><b><a href="https://github.com/CyberSpencer/Cybersecurity-Projects/tree/main/Wireshark-Packet-Capture">Wireshark for Beginners: Capture Packets</a></b></li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>📜 Certifications:</h2>
+<ul>
+    <li><b>Google Cybersecurity Certificate</b> <a href="URL_of_certificate">View Certificate</a></li>
+    <li><b>IBM Windows Defender & Firewall for Beginners</b> <a href="URL_of_certificate">View Certificate</a></li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🔐 Code Projects:</h2>
+<ul>
+    <li><b><a href="https://github.com/CyberSpencer/Code-Projects/tree/main/Print-Resume">Print Resume</a></b></li>
+    <li><b><a href="https://github.com/CyberSpencer/Code-Projects/tree/main/Python-Barista">Python Barista</a></b></li>
+</ul>
+
+<h2>📺 Referenced YouTube Videos</h2>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=mRMmlo_Uqcs">Network Chuck Python Barista (Py)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=zgqfWLHNKLk">How to Create a Portfolio on Github (Html)</a></li>
+</ul>
+
+<h2> 🤳 Connect with me:</h2>
+<ul>
+    <li>
+        <a href="https://www.linkedin.com/in/spencer-thomson-43365b11a/">
+            <img alt="Spencer Thomson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+            LinkedIn Profile
+        </a>
+    </li>
+</ul>
+
+</body>
+</html>
