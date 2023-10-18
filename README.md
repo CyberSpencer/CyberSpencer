@@ -24,7 +24,7 @@
 
 <h2>🔐 Code Projects:</h2>
 <ul>
-    <li><b><a href="https://github.com/CyberSpencer/Code-Projects/tree/main/Print-Resume">Print(Resume) </a></b></li>
+    <li><b><a href="https://github.com/CyberSpencer/Print-Resume-"> Print(Resume) </a></b></li>
     <li><b><a href="https://github.com/CyberSpencer/Code-Projects/tree/main/Python-Barista">Python Barista</a></b></li>
 </ul>
 
