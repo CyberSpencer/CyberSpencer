@@ -12,7 +12,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 <ul>
     <li><b><a href="https://github.com/CyberSpencer/Python-Packet-Sniffer">Python Packet Sniffer</a></b></li>
-    <li><b><a href="https://github.com/CyberSpencer/Cybersecurity-Projects/tree/main/TCPDump-Network-Analysis">Analyzing Network Traffic with TCPDump</a></b></li>
+    <li><b><a href="https://github.com/CyberSpencer/TCPDump-Network-Analysis">Analyzing Network Traffic with TCPDump</a></b></li>
     <li><b><a href="https://github.com/CyberSpencer/Cybersecurity-Projects/tree/main/Wireshark-Packet-Capture">Wireshark for Beginners: Capture Packets</a></b></li>
 </ul>
 
