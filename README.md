@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
 <h1>Hi, I'm Spencer!</h1>
 <a href="https://github.com/CyberSpencer">GitHub Profile</a>
 
@@ -34,6 +42,7 @@
             LinkedIn Profile
         </a>
     </li>
+    <li>Email: <a href="mailto:spencertsales@gmail.com">spencertsales@gmail.com</a></li>
 </ul>
 
 </body>
