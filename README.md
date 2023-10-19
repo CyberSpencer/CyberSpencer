@@ -26,7 +26,7 @@ I'm a cybersecurity enthusiast, embarking on a digital voyage, one packet at a t
   
 - **IBM Windows Defender & Firewall** - [<img align="left" alt="Windows Defender" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/microsoft.svg" />View Certificate](https://coursera.org/share/5eab200d75ada9b2cc6b24e05c7dda16)
 
-## 🔐 Code Projects
+## 🔐 Learning to Code Projects
 - [**Print(Resume)**](https://github.com/CyberSpencer/Print-Resume-)
 - [**Python Packet Sniffer**](https://github.com/CyberSpencer/Python-Packet-Sniffer)
 - [**Python Barista**](https://github.com/CyberSpencer/Python-Barista)
