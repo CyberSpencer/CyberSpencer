@@ -18,7 +18,7 @@
 
 <h2>📜 Certifications:</h2>
 <ul>
-    <li><b>Google Cybersecurity Certificate</b> <a href="URL_of_certificate">View Certificate</a></li>
+    <li><b>Google Cybersecurity Certificate</b> <a href="https://www.coursera.org/account/accomplishments/professional-cert/KY4JMYVUJ3F2">View Certificate</a></li>
     <li><b>IBM Windows Defender & Firewall for Beginners</b> <a href="URL_of_certificate">View Certificate</a></li>
 </ul>
 
