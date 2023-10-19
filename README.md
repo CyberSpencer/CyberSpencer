@@ -22,8 +22,9 @@ I'm a cybersecurity enthusiast, embarking on a digital voyage, one packet at a t
 - [**Wireshark for Beginners: Capture Packets**](https://github.com/CyberSpencer/Wireshark-for-Beginners-Capture-Packets/blob/main/README.md)
 
 ## 📜 Certifications
-- **Google Cybersecurity Certificate** - [<img alt="Google Logo" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />View Certificate](https://coursera.org/share/b8b0a760b6c84785767d1b0cb3d85454)
-- **IBM Windows Defender & Firewall for Beginners** - [View Certificate](URL_of_certificate)
+- **Google Cybersecurity Certificate** - [<img align="left" alt="Google Logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />View Certificate](https://coursera.org/share/b8b0a760b6c84785767d1b0cb3d85454)
+  
+- **IBM Windows Defender & Firewall for Beginners** - [<img align="left" alt="Windows Defender" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/microsoft.svg" />View Certificate](https://coursera.org/share/5eab200d75ada9b2cc6b24e05c7dda16)
 
 ## 🔐 Code Projects
 - [**Print(Resume)**](https://github.com/CyberSpencer/Print-Resume-)
