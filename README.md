@@ -11,17 +11,17 @@
 </header>
 
 <section>
+<img align="left" alt="Google Cybersecurity" width="60px" style="padding-right:10px;" src="https://imgur.com/6wg4vzf.png" />   
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+<img align="left" alt="WordPress" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Wireshark" width="50px" style="padding-right:10px;" src="https://simpleicons.org/icons/wireshark.svg" />
+<img align="left" alt="Windows Defender" width="50px" style="padding-right:10px;" src="https://simpleicons.org/icons/windowsterminal.svg" />
 <img align="left" alt="Git" style="padding-right:10px;"src="https://img.shields.io/github/followers/CyberSpencer?style=social" alt="GitHub followers">
-<img align="left" alt="Google Cybersecurity" width="50px" style="padding-right:10px;" src="https://imgur.com/6wg4vzf.png" />   
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/wireshark.svg" />
-<img align="left" alt="Windows Defender" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/windowsterminal.svg" />
-
+  
 <br />
 <br />
 </section>
