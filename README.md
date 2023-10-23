@@ -7,11 +7,11 @@
 
 <header>
   <h1>Hi, I'm Spencer! 👋</h1>
-  <img src="https://img.shields.io/github/followers/CyberSpencer?style=social" alt="GitHub followers">
+  <p>I'm a cybersecurity enthusiast, embarking on a digital voyage, one packet at a time.</p>
 </header>
 
 <section>
-  <p>I'm a cybersecurity enthusiast, embarking on a digital voyage, one packet at a time.</p>
+<img align="left" alt="Git" style="padding-right:10px;"src="https://img.shields.io/github/followers/CyberSpencer?style=social" alt="GitHub followers">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
