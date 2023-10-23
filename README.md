@@ -50,7 +50,7 @@
   <ul>
     <li><a href="https://github.com/CyberSpencer/Print-Resume-">Print(Resume)</a></li>
     <li><a href="https://github.com/CyberSpencer/Python-Barista">Python Barista</a></li>
-    <li><a href="#">Python Password Strength Checker OWASP</a></li>
+    <li><a href="https://github.com/CyberSpencer/OWASP_Password_Checker">Python Password Strength Checker OWASP</a></li>
   </ul>
 </section>
 
