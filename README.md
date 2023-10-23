@@ -8,7 +8,6 @@
 <header>
   <h1>Hi, I'm Spencer! 👋</h1>
   <img src="https://img.shields.io/github/followers/CyberSpencer?style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/spencer-thomson-43365b11a/" alt="LinkedIn Follow">
 </header>
 
 <section>
