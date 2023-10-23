@@ -23,6 +23,7 @@
 <img align="left" alt="Windows Defender" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/windowsterminal.svg" />
 
 <br />
+<br />
 </section>
 
 <section>
