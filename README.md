@@ -48,9 +48,9 @@
 <section>
   <h2>🔐 Learning to Code Projects</h2>
   <ul>
-    <li><a href="https://github.com/CyberSpencer/Print-Resume-">Print(Resume)</a></li>
-    <li><a href="https://github.com/CyberSpencer/Python-Barista">Python Barista</a></li>
-    <li><a href="https://github.com/CyberSpencer/OWASP_Password_Checker">Python Password Strength Checker OWASP</a></li>
+    <li><a href="https://github.com/CyberSpencer/Print-Resume-">Print(Resume) / Python</a></li>
+    <li><a href="https://github.com/CyberSpencer/Python-Barista">Barista / Python</a></li>
+    <li><a href="https://github.com/CyberSpencer/OWASP_Password_Checker">Password Strength Checker OWASP / Python</a></li>
   </ul>
 </section>
 
