@@ -60,11 +60,17 @@
   <h2>📜 Certifications</h2>
   <ul>
     <li>
-    <img align="left" alt="Google Cybersecurity Certificate" width="20px" style="padding-right:10px;" src="https://i.imgur.com/SQdMaeS.png" />
+    <img align="left" alt="Google Cybersecurity Certificate" width="25px" style="padding-right:10px;" src="https://i.imgur.com/SQdMaeS.png" />
     Google Cybersecurity Certificate - <a href="https://coursera.org/share/b8b0a760b6c84785767d1b0cb3d85454">View Certificate</a>
     </li>
-    <li>IBM Windows Defender & Firewall - <a href="https://coursera.org/share/5eab200d75ada9b2cc6b24e05c7dda16">View Certificate</a></li>
-    <li>Comptia Security+ - Planned Examination 12/23</li>
+    <li>
+    <img align="left" alt="IBM Windows Defender & Firewall" width="33px" style="padding-right:10px;" src="https://i.imgur.com/msNA1ck.png" />
+    IBM Windows Defender & Firewall - <a href="https://coursera.org/share/5eab200d75ada9b2cc6b24e05c7dda16">View Certificate</a>
+    </li>
+    <li>
+    <img align="left" alt="CompTIA Security+" width="33px" style="padding-right:0px;" src="https://i.imgur.com/cXUHS4I.png" />
+    CompTIA Security+ - Planned Examination 12/23
+   </li>
   </ul>
 </section>
 
