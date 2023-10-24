@@ -42,7 +42,7 @@
     <a href="https://github.com/CyberSpencer/TCPDump-Network-Analysis">Analyzing Network Traffic with TCPDump</a>
     </li>
     <li>
-    <img align="left" alt="Hack the Box" width="26px" style="padding-right:0px;" src="https://i.imgur.com/ceGKJxN.png" charset="utf-8"
+    <img align="left" alt="Hack the Box" width="22px" style="padding-right:0px;" src="https://i.imgur.com/ceGKJxN.png" charset="utf-8"
     <a href="#">Intro to NMap: Hack the Box</a>
     </li>
     <li>
