@@ -20,6 +20,7 @@
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTB" width="65px" style="padding-right:10px;" src="https://i.imgur.com/ceGKJxN.png" />
 <img align="left" alt="Burp Suite" width="50px" style="padding-right:10px;" src="https://i.imgur.com/xm3ulNR.png" />
+<img align="left" alt="Wireshark" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
 
 <br />
 <br />
@@ -87,9 +88,15 @@
 <section>
   <h2>📺 Referenced YouTube Videos</h2>
   <ul>
-    <li><a href="https://www.youtube.com/watch?v=mRMmlo_Uqcs">Network Chuck Python Barista (Py)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=zgqfWLHNKLk">How to Create a Portfolio on Github (Html)</a></li>
-  </ul>
+    <li>
+    <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <a href="https://www.youtube.com/watch?v=mRMmlo_Uqcs">Network Chuck Python Barista</a>
+    </li>
+    <li>
+    <img align="left" alt="HTML5" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <a href="https://www.youtube.com/watch?v=zgqfWLHNKLk">How to Create a Portfolio on Github</a>
+  </li>
+ </ul>
 </section>
 
 <section>
