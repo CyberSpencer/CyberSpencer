@@ -11,16 +11,16 @@
 </header>
 
 <section>
-<img align="left" alt="Google Cybersecurity" width="60px" style="padding-right:10px;" src="https://imgur.com/6wg4vzf.png" />   
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-<img align="left" alt="WordPress" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTB" width="65px" style="padding-right:2px;" src="https://i.imgur.com/ceGKJxN.png" />
-<img align="left" alt="Burp Suite" width="50px" style="padding-right:10px;" src="https://i.imgur.com/xm3ulNR.png" />
-<img align="left" alt="Wireshark" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
+<img align="left" alt="Google Cybersecurity" width="55px" style="padding-right:10px;" src="https://imgur.com/6wg4vzf.png" />   
+<img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img align="left" alt="Bash" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+<img align="left" alt="WordPress" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+<img align="left" alt="HTML" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Linux" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTB" width="60px" style="padding-right:2px;" src="https://i.imgur.com/ceGKJxN.png" />
+<img align="left" alt="Burp Suite" width="45px" style="padding-right:10px;" src="https://i.imgur.com/xm3ulNR.png" />
+<img align="left" alt="Wireshark" width="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
 
 <br />
 <br />
@@ -60,15 +60,15 @@
   <h2>📜 Certifications</h2>
   <ul>
     <li>
-    <img align="left" alt="Google Cybersecurity Certificate" width="25px" style="padding-right:10px;" src="https://i.imgur.com/SQdMaeS.png" />
+    <img align="left" alt="Google Cybersecurity Certificate" width="22px" style="padding-right:10px;" src="https://i.imgur.com/SQdMaeS.png" />
     Google Cybersecurity Certificate - <a href="https://coursera.org/share/b8b0a760b6c84785767d1b0cb3d85454">View Certificate</a>
     </li>
     <li>
-    <img align="left" alt="IBM Windows Defender & Firewall" width="33px" style="padding-right:10px;" src="https://i.imgur.com/msNA1ck.png" />
+    <img align="left" alt="IBM Windows Defender & Firewall" width="28px" style="padding-right:10px;" src="https://i.imgur.com/msNA1ck.png" />
     IBM Windows Defender & Firewall - <a href="https://coursera.org/share/5eab200d75ada9b2cc6b24e05c7dda16">View Certificate</a>
     </li>
     <li>
-    <img align="left" alt="CompTIA Security+" width="33px" style="padding-right:0px;" src="https://i.imgur.com/cXUHS4I.png" />
+    <img align="left" alt="CompTIA Security+" width="28px" style="padding-right:0px;" src="https://i.imgur.com/cXUHS4I.png" />
     CompTIA Security+ - Planned Examination 12/23
    </li>
   </ul>
