@@ -59,7 +59,10 @@
 <section>
   <h2>📜 Certifications</h2>
   <ul>
-    <li>Google Cybersecurity Certificate - <a href="https://coursera.org/share/b8b0a760b6c84785767d1b0cb3d85454">View Certificate</a></li>
+    <li>
+    <img align="left" alt="Google Cybersecurity Certificate" width="20px" style="padding-right:10px;" src="https://i.imgur.com/SQdMaeS.png" />
+    Google Cybersecurity Certificate - <a href="https://coursera.org/share/b8b0a760b6c84785767d1b0cb3d85454">View Certificate</a>
+    </li>
     <li>IBM Windows Defender & Firewall - <a href="https://coursera.org/share/5eab200d75ada9b2cc6b24e05c7dda16">View Certificate</a></li>
     <li>Comptia Security+ - Planned Examination 12/23</li>
   </ul>
@@ -102,8 +105,15 @@
 <section>
   <h2>🤳 Connect with me</h2>
   <ul>
-    <li><a href="https://www.linkedin.com/in/spencer-thomson-43365b11a/">LinkedIn Profile</a></li>
-    <li>Email: <a href="mailto:spencertsales@gmail.com">spencertsales@gmail.com</a></li>
+    <li>
+    <img align="left" alt="LinkedIn" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+    <a href="https://www.linkedin.com/in/spencer-thomson-43365b11a/">LinkedIn Profile</a>
+    </li>
+    <li>
+    <img align="left" alt="Email" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />
+    <a href="mailto:spencertsales@gmail.com">spencertsales@gmail.com</a>
+</li>
+
   </ul>
 </section>
 
