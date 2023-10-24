@@ -39,7 +39,7 @@
     <a href="https://github.com/CyberSpencer/Wireshark-for-Beginners-Capture-Packets">Wireshark for Beginners: Capture Packets</a>
     </li>
     <li>
-        <img align="left" alt="Hack the Box" width="28px" style="padding-right:5px;" src="https://i.imgur.com/ceGKJxN.png" charset="utf-8"
+        <img align="left" alt="Hack the Box" width="25px" style="padding-right:5px;" src="https://i.imgur.com/ceGKJxN.png" charset="utf-8"
         <a href="#">Intro to NMap: Hack the Box</a>
     </li>
     <li><a href="#">Burp Suite for Beginners</a></li>
