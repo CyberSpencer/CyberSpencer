@@ -18,7 +18,7 @@
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTB" width="65px" style="padding-right:10px;" src="https://i.imgur.com/ceGKJxN.png" />
+<img align="left" alt="HTB" width="65px" style="padding-right:2px;" src="https://i.imgur.com/ceGKJxN.png" />
 <img align="left" alt="Burp Suite" width="50px" style="padding-right:10px;" src="https://i.imgur.com/xm3ulNR.png" />
 <img align="left" alt="Wireshark" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
 
@@ -42,8 +42,8 @@
     <a href="https://github.com/CyberSpencer/Wireshark-for-Beginners-Capture-Packets">Wireshark for Beginners: Capture Packets</a>
     </li>
     <li>
-        <img align="left" alt="Hack the Box" width="26px" style="padding-right:5px;" src="https://i.imgur.com/ceGKJxN.png" charset="utf-8"
-        <a href="#">Intro to NMap: Hack the Box</a>
+    <img align="left" alt="Hack the Box" width="26px" style="padding-right:0px;" src="https://i.imgur.com/ceGKJxN.png" charset="utf-8"
+    <a href="#">Intro to NMap: Hack the Box</a>
     </li>
     <li>
     <img align="left" alt="Burp Suite" width="18px" style="padding-right:10px;" src="https://i.imgur.com/xm3ulNR.png" />
