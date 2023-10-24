@@ -18,7 +18,7 @@
 <img align="left" alt="HTML" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Linux" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTB" width="62px" style="padding-right:2px;" src="https://i.imgur.com/ceGKJxN.png" />
+<img align="left" alt="HTB" width="62px" style="padding-right:0px;" src="https://i.imgur.com/ceGKJxN.png" />
 <img align="left" alt="Burp Suite" width="40px" style="padding-right:10px;" src="https://i.imgur.com/xm3ulNR.png" />
 <img align="left" alt="Wireshark" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
 
