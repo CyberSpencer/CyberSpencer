@@ -25,13 +25,28 @@
 
 <section>
   <h2>👨‍💻 Cyber Security Projects</h2>
-  <ul>
-    <li><a href="https://github.com/CyberSpencer/Python-Packet-Sniffer">Python Packet Sniffer</a></li>
-    <li><a href="https://github.com/CyberSpencer/TCPDump-Network-Analysis">Analyzing Network Traffic with TCPDump</a></li>
-    <li><a href="https://github.com/CyberSpencer/Wireshark-for-Beginners-Capture-Packets">Wireshark for Beginners: Capture Packets</a></li>
-    <li><a href="#">Intro to NMap: Hack the Box</a></li>
+<ul>
+    <li>
+        <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <a href="https://github.com/CyberSpencer/Python-Packet-Sniffer">Python Packet Sniffer</a>
+    </li>
+    <li>
+    <img align="left" alt="Bash" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+    <a href="https://github.com/CyberSpencer/TCPDump-Network-Analysis">Analyzing Network Traffic with TCPDump</a>
+    </li>
+    <li>
+    <img align="left" alt="Wireshark" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
+    <a href="https://github.com/CyberSpencer/Wireshark-for-Beginners-Capture-Packets">Wireshark for Beginners: Capture Packets</a>
+    </li>
+    <li>
+        <img align="left" alt="Hack the Box" width="28px" style="padding-right:5px;" src="https://i.imgur.com/ceGKJxN.png" charset="utf-8"
+        <a href="#">Intro to NMap: Hack the Box</a>
+    </li>
     <li><a href="#">Burp Suite for Beginners</a></li>
-  </ul>
+</li>
+
+</ul>
+
 </section>
 
 <section>
@@ -45,11 +60,22 @@
 
 <section>
   <h2>🔐 Learning to Code Projects</h2>
-  <ul>
-    <li><a href="https://github.com/CyberSpencer/Print-Resume-">Print(Resume) / Python</a></li>
-    <li><a href="https://github.com/CyberSpencer/Python-Barista">Barista / Python</a></li>
-    <li><a href="https://github.com/CyberSpencer/OWASP_Password_Checker">Password Strength Checker OWASP / Python</a></li>
-  </ul>
+<ul>
+    <li>
+        <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <a href="https://github.com/CyberSpencer/Print-Resume-">Print(Resume) </a>
+    </li>
+   <brk>
+    <li>
+        <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <a href="https://github.com/CyberSpencer/Python-Barista">Barista </a>
+    </li>
+    <li>
+        <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <a href="https://github.com/CyberSpencer/OWASP_Password_Checker">Password Strength Checker OWASP </a>
+    </li>
+</ul>
+
 </section>
 
 <section>
