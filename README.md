@@ -11,7 +11,7 @@
 </header>
 
 <section>
-<img align="left" alt="Google Cybersecurity" width="55px" style="padding-right:10px;" src="https://imgur.com/6wg4vzf.png" />   
+<img align="left" alt="Google Cybersecurity" width="59px" style="padding-right:10px;" src="https://imgur.com/6wg4vzf.png" />   
 <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img align="left" alt="Bash" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 <img align="left" alt="WordPress" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
@@ -19,8 +19,8 @@
 <img align="left" alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Linux" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTB" width="60px" style="padding-right:2px;" src="https://i.imgur.com/ceGKJxN.png" />
-<img align="left" alt="Burp Suite" width="45px" style="padding-right:10px;" src="https://i.imgur.com/xm3ulNR.png" />
-<img align="left" alt="Wireshark" width="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
+<img align="left" alt="Burp Suite" width="42px" style="padding-right:10px;" src="https://i.imgur.com/xm3ulNR.png" />
+<img align="left" alt="Wireshark" width="42px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
 
 <br />
 <br />
