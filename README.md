@@ -7,7 +7,7 @@
 
 <header>
   <h1>Hi, I'm Spencer! 👋</h1>
-  <p>I'm a cybersecurity enthusiast, embarking on a digital voyage, one packet at a time.</p>
+  <p>I'm a cybersecurity enthusiast, embarking on a digital voyage.</p>
 </header>
 
 <section>
