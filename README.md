@@ -29,10 +29,6 @@
 <section>
   <h2>👨‍💻 Cyber Security Projects</h2>
 <ul>
-    <li>
-        <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <a href="https://github.com/CyberSpencer/Python-Packet-Sniffer">Python Packet Sniffer</a>
-    </li>
      <li>
     <img align="left" alt="Wireshark" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
     <a href="https://github.com/CyberSpencer/Wireshark-for-Beginners-Capture-Packets">Wireshark for Beginners: Capture Packets</a>
@@ -79,12 +75,16 @@
 <ul>
     <li>
         <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <a href="https://github.com/CyberSpencer/Python-Packet-Sniffer">Python Packet Sniffer</a>
+    </li>
+    <li>
+        <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <a href="https://github.com/CyberSpencer/Print-Resume-">Print(Resume) </a>
     </li>
    <brk>
     <li>
         <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <a href="https://github.com/CyberSpencer/Python-Barista">Barista </a>
+        <a href="https://github.com/CyberSpencer/Python-Barista"> Breckenridge Barista </a>
     </li>
     <li>
         <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
