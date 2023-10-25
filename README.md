@@ -71,7 +71,7 @@
 </section>
 
 <section>
-  <h2>🔐 Learning to Code Projects</h2>
+  <h2>🔐 Code Projects</h2>
 <ul>
     <li>
         <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
