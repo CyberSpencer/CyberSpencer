@@ -43,7 +43,7 @@
     </li>
     <li>
     <img align="left" alt="Burp Suite" width="18px" style="padding-right:10px;" src="https://i.imgur.com/xm3ulNR.png" />
-    <a href="#">Burp Suite for Beginners</a>
+    <a href="https://github.com/CyberSpencer/Burp-Suite">Burp Suite for Beginners</a>
 
 
 </li>
