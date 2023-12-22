@@ -117,7 +117,7 @@
     </li>
     <li>
     <img align="left" alt="Email" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />
-    <a href="mailto:spencertsales@gmail.com">spencertsales@gmail.com</a>
+    <a href="mailto:spencer@aiintegrations.tech">spencer@aiintegrations.tech</a>
 </li>
 
   </ul>
