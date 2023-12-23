@@ -7,12 +7,15 @@
 
 <header>
   <h1>Hi, I'm Spencer! 👋</h1>
-  <p>I'm a cybersecurity, large data and AI enthusiast embarking on a digital adventure.</p>
+  <p>I'm a cybersecurity, large data, and AI enthusiast embarking on a digital adventure.</p>
+  <p>CEO and Founder of <a href="https://aiintegrations.tech" target="_blank">AI Integrations</a></p>
 </header>
+
 
 <section>
 <img align="left" alt="Google Cybersecurity" width="55px" style="padding-right:0px;" src="https://imgur.com/6wg4vzf.png" />   
 <img align="left" alt="Python" width="33px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img align="left" alt="ReactJS" width="33px" style="padding-right:8px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Bash" width="33px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 <img align="left" alt="HTB" width="42px" style="padding-right:0px;" src="https://i.imgur.com/ceGKJxN.png" />
 <img align="left" alt="Wireshark" width="30px" style="padding-right:8px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
@@ -56,19 +59,24 @@
   <h2>📜 IT Certifications</h2>
   <ul>
     <li>
-    <img align="left" alt="Google Cybersecurity Certificate" width="20px" style="padding-right:10px;" src="https://i.imgur.com/SQdMaeS.png" />
-    Google Cybersecurity Certificate - <a href="https://coursera.org/share/b8b0a760b6c84785767d1b0cb3d85454">View Certificate</a>
+      <img align="left" alt="Google Cybersecurity Certificate" width="20px" style="padding-right:10px;" src="https://i.imgur.com/SQdMaeS.png" />
+      Google Cybersecurity Certificate - <a href="https://coursera.org/share/b8b0a760b6c84785767d1b0cb3d85454">View Certificate</a>
     </li>
     <li>
-    <img align="left" alt="IBM Windows Defender & Firewall" width="25px" style="padding-right:10px;" src="https://i.imgur.com/msNA1ck.png" />
-    IBM Windows Defender & Firewall - <a href="https://coursera.org/share/5eab200d75ada9b2cc6b24e05c7dda16">View Certificate</a>
+      <img align="left" alt="IBM Windows Defender & Firewall" width="25px" style="padding-right:10px;" src="https://i.imgur.com/msNA1ck.png" />
+      IBM Windows Defender & Firewall - <a href="https://coursera.org/share/5eab200d75ada9b2cc6b24e05c7dda16">View Certificate</a>
     </li>
     <li>
-    <img align="left" alt="CompTIA Security+" width="25px" style="padding-right:0px;" src="https://i.imgur.com/cXUHS4I.png" />
-    CompTIA Security+ - Planned Examination 12/23
-   </li>
+      <img align="left" alt="CompTIA Security+" width="25px" style="padding-right:10px;" src="https://i.imgur.com/cXUHS4I.png" />
+      CompTIA Security+ - Planned Examination 4/24
+    </li>
+    <li>
+      <img align="left" alt="Meta Frontend Developer" width="25px" style="padding-right:10px;" src="https://www.svgrepo.com/show/431792/meta.svg" /> 
+      Meta Frontend Developer Certificate - Planned Completion 6/24
+    </li>
   </ul>
 </section>
+
 
 <section>
   <h2>🔐 Cybersecurity Code Projects</h2>
@@ -112,35 +120,43 @@
   <h2>🤳 Connect with me</h2>
   <ul>
     <li>
-    <img align="left" alt="LinkedIn" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-    <a href="https://www.linkedin.com/in/spencer-thomson-43365b11a/">LinkedIn Profile</a>
+      <li>
+      <img align="left" alt="Website" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/229032/internet.svg" />
+      <a href="http://aiintegrations.tech">aiintegrations.tech</a>
+    </li>
+      <img align="left" alt="LinkedIn" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+      <a href="https://www.linkedin.com/in/spencer-thomson-43365b11a/">LinkedIn Profile</a>
     </li>
     <li>
-    <img align="left" alt="Email" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />
-    <a href="mailto:spencer@aiintegrations.tech">spencer@aiintegrations.tech</a>
-</li>
-
+      <img align="left" alt="Email" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />
+      <a href="mailto:spencer@aiintegrations.tech">spencer@aiintegrations.tech</a>
+    </li>
   </ul>
 </section>
+
 
 <details>
   <summary>🚀 About Me</summary>
   <p>
-    I am an aspiring cybersecurity professional, ready to embark on a new chapter of my career with a remote role in the cybersecurity domain. With a recently acquired Google Cybersecurity Certificate and a diverse background spanning risk management, data handling, and systems development, I am excited to leverage my foundational knowledge while continuing to learn and grow in this field.
+   I am the founder and CEO of AI Integrations, my journey has been one of continuous learning and growth. I started out working in large data and programing over 10 years ago! Currently I am embracing the challenges and opportunities that come with the vast and ever changing domains of AI and Cybersecruity. 
 
-  My academic and self-driven pursuits have equipped me with an understanding of key laws and regulations like GDPR, HIPAA, and PCI DSS, as well as hands-on experience with tools like SPLUNK, Chronicle, Wireshark, TCPDump, and Linux. I am also acquainted with protocols and concepts such as TCP/IP, Hashes, IPv4+IPv6, WPA2+WPA3, MFA, and NIST-CSF. My programming journey is budding with entry-level skills in languages like Python, SQL, Bash/Zsh, Excel VBA, HTML and CSS. Additionally, my ability to analyze and visualize large datasets while upholding the principles of Confidentiality, Integrity, and Availability stands as a testament to my analytical skill.
+I am a Google Certified Cybersecurity Proffesional giving me an in depth understanding of essential laws and regulations such as GDPR, HIPAA, and PCI DSS, coupled with hands-on experience in tools like SPLUNK, Chronicle, Wireshark, TCPDump, and Linux. My technical skills extend to navigating complex protocols and concepts like TCP/IP, Hashes, IPv4+IPv6, WPA2+WPA3, and MFA, along with a proficiency in NIST-CSF.
 
-  The diverse roles I have undertaken, from auditing invoices, to founding an automotive wholesale and tech busniess at the age of 16, reflect my entrepreneurial spirit and commitment to meticulous data management. My time spent as a mountain guide has honed my risk management skills in high-stress, high-stakes environments, which I am eager to transfer into the cybersecurity realm.
+My programming journey has been one of curiosity and lifelong learning, having written my first "hello world" 15 years ago! I'm comfortable working with languages like Python, React, SQL, Bash/Zsh, Excel VBA, HTML, and CSS. 
 
-  I am in the process of furthering my certifications in the field, and I am eager to connect with mentors and engage in opportunities that will further sharpen my skills in cybersecurity. I am excited about the prospect of contributing to and learning from the cybersecurity community.
+The entrepreneurial spirit that led me to start a successful tech business as a teenager continues to fuel my approach at AI Integrations. My experiences, ranging from meticulous data management to guiding teams in high-stress environments as a mountain guide, have taught me the significance of resilience and adaptability that I rely on daily in my role as CEO of AI Integrations!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/spencer-thomson-43365b11a/).
-</p>
-</details>
-  </p>
-</details>
+I am passionate about sharing my journey, connecting with like-minded professionals and mentors, and embracing opportunities that refine my skills further. In the community of cybersecurity and AI, I see a chance not just to contribute but also to learn and grow alongside others. At AI Integrations, we are on a mission to innovate responsibly and empower businesses with cutting-edge AI solutions, a journey I am proud to be part of!
 
 <footer>
   <p align="center">
     <a href="https://www.linkedin.com/in/spencer-thomson-43365b11a/">
-      <img
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30px"/>
+    </a>
+    &nbsp;|&nbsp;
+    <a href="mailto:spencer@aiintegrations.tech">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="30px"/>
+    </a>
+  </p>
+</footer>
+
