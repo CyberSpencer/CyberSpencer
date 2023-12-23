@@ -7,7 +7,7 @@
 
 <header>
   <h1>Hi, I'm Spencer! 👋</h1>
-  <p>I'm a cybersecurity enthusiast, embarking on a digital adventure.</p>
+  <p>I'm a cybersecurity, large data and AI enthusiast embarking on a digital adventure.</p>
 </header>
 
 <section>
@@ -53,7 +53,7 @@
 </section>
 
 <section>
-  <h2>📜 Certifications</h2>
+  <h2>📜 IT Certifications</h2>
   <ul>
     <li>
     <img align="left" alt="Google Cybersecurity Certificate" width="20px" style="padding-right:10px;" src="https://i.imgur.com/SQdMaeS.png" />
@@ -71,7 +71,7 @@
 </section>
 
 <section>
-  <h2>🔐 Code Projects</h2>
+  <h2>🔐 Cybersecurity Code Projects</h2>
 <ul>
     <li>
         <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
