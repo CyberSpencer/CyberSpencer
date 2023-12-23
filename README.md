@@ -13,7 +13,7 @@
 
 
 <section>
-<img align="left" alt="Google Cybersecurity" width="55px" style="padding-right:0px;" src="https://imgur.com/6wg4vzf.png" />   
+<img align="left" alt="Google Cybersecurity" width="35px" style="padding-right:0px;" src="https://imgur.com/6wg4vzf.png" />   
 <img align="left" alt="Python" width="33px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img align="left" alt="ReactJS" width="33px" style="padding-right:8px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Bash" width="33px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
