@@ -117,10 +117,10 @@
   <h2>🤳 Connect with me</h2>
   <ul>
     <li>
-      <li>
       <img align="left" alt="Website" width="20px" style="padding-right:10px;" src="https://www.svgrepo.com/show/229032/internet.svg" />
       <a href="http://aiintegrations.tech">aiintegrations.tech</a>
     </li>
+    <li>
       <img align="left" alt="LinkedIn" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
       <a href="https://www.linkedin.com/in/spencer-thomson-43365b11a/">LinkedIn Profile</a>
     </li>
