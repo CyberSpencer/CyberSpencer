@@ -67,10 +67,6 @@
       IBM Windows Defender & Firewall - <a href="https://coursera.org/share/5eab200d75ada9b2cc6b24e05c7dda16" title="View IBM Windows Defender & Firewall Certificate">View Certificate</a>
     </li>
     <li>
-      <img align="left" alt="CompTIA Security+" title="CompTIA Security+" width="25px" style="padding-right:10px;" src="https://i.imgur.com/cXUHS4I.png" />
-      CompTIA Security+ - Planned Examination 4/24
-    </li>
-    <li>
       <img align="left" alt="Meta Frontend Developer" title="Meta Frontend Developer" width="25px" style="padding-right:10px;" src="https://www.svgrepo.com/show/431792/meta.svg" /> 
       Meta Frontend Developer Certificate - Planned Completion 6/24
     </li>
