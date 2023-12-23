@@ -12,17 +12,17 @@
 </header>
 
 
-<section>
-<img align="left" alt="Google Cybersecurity" width="35px" style="padding-right:0px;" src="https://imgur.com/6wg4vzf.png" />   
+<section> 
 <img align="left" alt="Python" width="33px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img align="left" alt="ReactJS" width="33px" style="padding-right:8px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Bash" width="33px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Google Cybersecurity" width="35px" style="padding-right:0px;" src="https://imgur.com/6wg4vzf.png" />  
 <img align="left" alt="HTB" width="42px" style="padding-right:0px;" src="https://i.imgur.com/ceGKJxN.png" />
 <img align="left" alt="Wireshark" width="30px" style="padding-right:8px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
 <img align="left" alt="Burp Suite" width="30px" style="padding-right:8px;" src="https://i.imgur.com/xm3ulNR.png" />
 <img align="left" alt="Linux" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="WordPress" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 
 <br />
