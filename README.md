@@ -46,7 +46,7 @@
     </li>
     <li>
     <img align="left" alt="Burp Suite" width="18px" style="padding-right:10px;" src="https://i.imgur.com/xm3ulNR.png" />
-    <a href="https://github.com/CyberSpencer/Burp-Suite">Burp Suite for Beginners</a>
+    <a href="https://github.com/CyberSpencer/Burp-Suite">Burp Suite Intro</a>
 
 
 </li>
@@ -76,11 +76,11 @@
 
 
 <section>
-  <h2>🔐 Cybersecurity Code Projects</h2>
+  <h2>🔐 Cybersecurity Python Projects</h2>
 <ul>
     <li>
         <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <a href="https://github.com/CyberSpencer/Python-Packet-Sniffer">Python Packet Sniffer</a>
+        <a href="https://github.com/CyberSpencer/Python-Packet-Sniffer">Packet Sniffer</a>
     </li>
     <li>
         <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -137,7 +137,7 @@
   <p>
    I am the founder and CEO of AI Integrations, my journey has been one of continuous learning and growth. I started out working in large data and programing over 10 years ago! Currently I am embracing the challenges and opportunities that come with the vast and ever changing domains of AI and Cybersecruity. 
 
-I am a Google Certified Cybersecurity Proffesional giving me an in depth understanding of essential laws and regulations such as GDPR, HIPAA, and PCI DSS, coupled with hands-on experience in tools like SPLUNK, Chronicle, Wireshark, TCPDump, and Linux. My technical skills extend to navigating complex protocols and concepts like TCP/IP, Hashes, IPv4+IPv6, WPA2+WPA3, and MFA, along with a proficiency in NIST-CSF.
+I am a Google Certified Cybersecurity Proffesional giving me an in depth understanding of essential laws and regulations such as GDPR, HIPAA, and PCI DSS, coupled with hands-on experience in tools like SPLUNK, Chronicle, Wireshark, TCPDump, SQL and Linux. My technical skills extend to navigating complex protocols and concepts like TCP/IP, Hashes, IPv4+IPv6, WPA2+WPA3, and MFA, along with a proficiency in NIST-CSF.
 
 My programming journey has been one of curiosity and lifelong learning, having written my first "hello world" 15 years ago! I'm comfortable working with languages like Python, React, SQL, Bash/Zsh, Excel VBA, HTML, and CSS. 
 
