@@ -34,19 +34,19 @@
 <ul>
     <li>
     <img align="left" alt="Bash" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-    <a href="https://github.com/CyberSpencer/TCPDump-Network-Analysis">Analyzing Network Traffic with TCPDump</a>
+    <a href="https://github.com/CyberSpencer/TCPDump-Network-Analysis">Analyzing Network Traffic w/ TCPDump</a>
     </li>
      <li>
     <img align="left" alt="Wireshark" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
-    <a href="https://github.com/CyberSpencer/Wireshark-for-Beginners-Capture-Packets">Wireshark for Beginners: Capture Packets</a>
+    <a href="https://github.com/CyberSpencer/Wireshark-for-Beginners-Capture-Packets">Wireshark: Capture Packets</a>
     </li>
     <li>
     <img align="left" alt="Hack the Box" width="22px" style="padding-right:10px;" src="https://i.imgur.com/ceGKJxN.png" />
-    <a href="https://github.com/CyberSpencer/Nmap-">Intro to NMap: Hack the Box</a>
+    <a href="https://github.com/CyberSpencer/Nmap-">NMap: Hack the Box</a>
     </li>
     <li>
     <img align="left" alt="Burp Suite" width="18px" style="padding-right:10px;" src="https://i.imgur.com/xm3ulNR.png" />
-    <a href="https://github.com/CyberSpencer/Burp-Suite">Burp Suite Intro</a>
+    <a href="https://github.com/CyberSpencer/Burp-Suite">Burp Suite: Basics </a>
 
 
 </li>
