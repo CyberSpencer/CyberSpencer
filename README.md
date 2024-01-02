@@ -8,7 +8,7 @@
 <header>
   <h1>Hi, I'm Spencer! 👋</h1>
   <p>I'm a cybersecurity, large data, and AI enthusiast embarking on a digital adventure.</p>
-  <p>CEO and Founder of <a href="https://aiintegrations.tech" target="_blank">AI Integrations</a></p>
+  <p>CEO & Founder <a href="https://aiintegrations.tech" target="_blank">AI Integrations</a></p>
 </header>
 
 
