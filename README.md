@@ -19,8 +19,8 @@
     <img alt="Bash" style="width: 7%; max-width: 33px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
     <img alt="HTML" style="width: 7%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img alt="CSS" style="width: 7%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img alt="Google Cybersecurity" style="width: 7%; max-width: 35px; padding: 5px;" src="https://imgur.com/6wg4vzf.png" />
-    <img alt="HTB" style="width: 7%; max-width: 42px; padding: 5px;" src="https://i.imgur.com/ceGKJxN.png" />
+    <img alt="Google Cybersecurity" style="width: 8%; max-width: 35px; padding: 5px;" src="https://imgur.com/6wg4vzf.png" />
+    <img alt="HTB" style="width: 8%; max-width: 42px; padding: 5px;" src="https://i.imgur.com/ceGKJxN.png" />
     <img alt="Wireshark" style="width: 7%; max-width: 30px; padding: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
     <img alt="Burp Suite" style="width: 7%; max-width: 30px; padding: 5px;" src="https://i.imgur.com/xm3ulNR.png" />
     <img alt="Linux" style="width: 7%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
