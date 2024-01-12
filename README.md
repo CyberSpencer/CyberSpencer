@@ -12,22 +12,25 @@
 </header>
 
 
-<section> 
-<img align="left" alt="Python" width="33px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-<img align="left" alt="ReactJS" width="33px" style="padding-right:8px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img align="left" alt="Bash" width="33px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Google Cybersecurity" width="35px" style="padding-right:0px;" src="https://imgur.com/6wg4vzf.png" />  
-<img align="left" alt="HTB" width="42px" style="padding-right:0px;" src="https://i.imgur.com/ceGKJxN.png" />
-<img align="left" alt="Wireshark" width="30px" style="padding-right:8px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
-<img align="left" alt="Burp Suite" width="30px" style="padding-right:8px;" src="https://i.imgur.com/xm3ulNR.png" />
-<img align="left" alt="Linux" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="WordPress" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+<section style="text-align: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <img alt="Python" style="width: 5%; max-width: 33px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="ReactJS" style="width: 5%; max-width: 33px; padding: 5px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+    <img alt="Bash" style="width: 5%; max-width: 33px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+    <img alt="HTML" style="width: 5%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="CSS" style="width: 5%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img alt="Google Cybersecurity" style="width: 5%; max-width: 35px; padding: 5px;" src="https://imgur.com/6wg4vzf.png" />
+    <img alt="HTB" style="width: 5%; max-width: 42px; padding: 5px;" src="https://i.imgur.com/ceGKJxN.png" />
+    <img alt="Wireshark" style="width: 5%; max-width: 30px; padding: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
+    <img alt="Burp Suite" style="width: 5%; max-width: 30px; padding: 5px;" src="https://i.imgur.com/xm3ulNR.png" />
+    <img alt="Linux" style="width: 5%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img alt="WordPress" style="width: 5%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+  </div>
 
-<br />
-<br />
+  <br />
+  <br />
 </section>
+
 
 <section>
   <h2>👨‍💻 Cyber Security Projects</h2>
