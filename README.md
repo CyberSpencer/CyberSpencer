@@ -14,21 +14,27 @@
 
 <section style="text-align: center;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    <img alt="Python" style="width: 5%; max-width: 33px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img alt="ReactJS" style="width: 5%; max-width: 33px; padding: 5px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-    <img alt="Bash" style="width: 5%; max-width: 33px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-    <img alt="HTML" style="width: 5%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img alt="CSS" style="width: 5%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img alt="Google Cybersecurity" style="width: 5%; max-width: 35px; padding: 5px;" src="https://imgur.com/6wg4vzf.png" />
-    <img alt="HTB" style="width: 5%; max-width: 42px; padding: 5px;" src="https://i.imgur.com/ceGKJxN.png" />
-    <img alt="Wireshark" style="width: 5%; max-width: 30px; padding: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
-    <img alt="Burp Suite" style="width: 5%; max-width: 30px; padding: 5px;" src="https://i.imgur.com/xm3ulNR.png" />
-    <img alt="Linux" style="width: 5%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img alt="WordPress" style="width: 5%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+    <img alt="Python" style="width: 7%; max-width: 33px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="ReactJS" style="width: 7%; max-width: 33px; padding: 5px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+    <img alt="Bash" style="width: 7%; max-width: 33px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+    <img alt="HTML" style="width: 7%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="CSS" style="width: 7%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img alt="Google Cybersecurity" style="width: 7%; max-width: 35px; padding: 5px;" src="https://imgur.com/6wg4vzf.png" />
+    <img alt="HTB" style="width: 7%; max-width: 42px; padding: 5px;" src="https://i.imgur.com/ceGKJxN.png" />
+    <img alt="Wireshark" style="width: 7%; max-width: 30px; padding: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
+    <img alt="Burp Suite" style="width: 7%; max-width: 30px; padding: 5px;" src="https://i.imgur.com/xm3ulNR.png" />
+    <img alt="Linux" style="width: 7%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img alt="WordPress" style="width: 7%; max-width: 30px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   </div>
 
   <br />
   <br />
+</section>
+<section>
+  <h2>🤖 Built with the Help of AI</h2>
+  <p>
+    This profile was uniquely crafted by an advanced AI developed by <a href="https://aiintegrations.tech" target="_blank">AI Integrations</a>. Utilizing state-of-the-art GPT technology from Open AI the <a href="https://chat.openai.com/g/g-0DvMGwItI-gitprofile-builder" target="_blank"> GitProfile Builder GPT</a>, organized and presented my professional journey in an engaging and innovative way, showcasing the intersection of technology and creativity!
+  </p>
 </section>
 
 
