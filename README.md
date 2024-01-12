@@ -33,7 +33,7 @@
 <section>
   <h2>🤖 Built with the Help of AI</h2>
   <p>
-    This profile was uniquely crafted by an advanced AI developed by <a href="https://aiintegrations.tech" target="_blank">AI Integrations</a>, utilizing state-of-the-art GPT technology from Open AI. The <a href="https://chat.openai.com/g/g-0DvMGwItI-gitprofile-builder" target="_blank"> GitProfile Builder GPT</a>, organized and presented my professional journey in an engaging and innovative way, showcasing the intersection of technology and creativity!
+    This profile was uniquely crafted with an advanced AI developed by <a href="https://aiintegrations.tech" target="_blank">AI Integrations</a>, utilizing state-of-the-art GPT technology from Open AI. The <a href="https://chat.openai.com/g/g-0DvMGwItI-gitprofile-builder" target="_blank"> GitProfile Builder GPT</a>, organized and presented my professional journey in an engaging and innovative way, showcasing the intersection of technology and creativity!
   </p>
 </section>
 
