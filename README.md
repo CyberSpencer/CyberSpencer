@@ -37,6 +37,24 @@
   </p>
 </section>
 
+<section>
+  <h2>📜 IT Certifications</h2>
+  <ul>
+    <li>
+      <img align="left" alt="Google Cybersecurity Certificate" title="Google Cybersecurity Certificate" width="20px" style="padding-right:10px;" src="https://i.imgur.com/SQdMaeS.png" />
+      Google Cybersecurity Certificate - <a href="https://coursera.org/share/b8b0a760b6c84785767d1b0cb3d85454" title="View Google Cybersecurity Certificate">View Certificate</a>
+    </li>
+    <li>
+      <img align="left" alt="IBM Windows Defender & Firewall" title="IBM Windows Defender & Firewall" width="25px" style="padding-right:10px;" src="https://i.imgur.com/msNA1ck.png" />
+      IBM Windows Defender & Firewall - <a href="https://coursera.org/share/5eab200d75ada9b2cc6b24e05c7dda16" title="View IBM Windows Defender & Firewall Certificate">View Certificate</a>
+    </li>
+    <li>
+      <img align="left" alt="Meta Frontend Developer" title="Meta Frontend Developer" width="25px" style="padding-right:10px;" src="https://www.svgrepo.com/show/431792/meta.svg" /> 
+      Meta Frontend Developer Certificate - Planned Completion 6/24
+    </li>
+  </ul>
+</section>
+
 
 <section>
   <h2>👨‍💻 Cyber Security Projects</h2>
@@ -64,23 +82,6 @@
 
 </section>
 
-<section>
-  <h2>📜 IT Certifications</h2>
-  <ul>
-    <li>
-      <img align="left" alt="Google Cybersecurity Certificate" title="Google Cybersecurity Certificate" width="20px" style="padding-right:10px;" src="https://i.imgur.com/SQdMaeS.png" />
-      Google Cybersecurity Certificate - <a href="https://coursera.org/share/b8b0a760b6c84785767d1b0cb3d85454" title="View Google Cybersecurity Certificate">View Certificate</a>
-    </li>
-    <li>
-      <img align="left" alt="IBM Windows Defender & Firewall" title="IBM Windows Defender & Firewall" width="25px" style="padding-right:10px;" src="https://i.imgur.com/msNA1ck.png" />
-      IBM Windows Defender & Firewall - <a href="https://coursera.org/share/5eab200d75ada9b2cc6b24e05c7dda16" title="View IBM Windows Defender & Firewall Certificate">View Certificate</a>
-    </li>
-    <li>
-      <img align="left" alt="Meta Frontend Developer" title="Meta Frontend Developer" width="25px" style="padding-right:10px;" src="https://www.svgrepo.com/show/431792/meta.svg" /> 
-      Meta Frontend Developer Certificate - Planned Completion 6/24
-    </li>
-  </ul>
-</section>
 
 
 
