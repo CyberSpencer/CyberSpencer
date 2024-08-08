@@ -50,7 +50,7 @@
     </li>
     <li>
       <img align="left" alt="Meta Frontend Developer" title="Meta Frontend Developer" width="25px" style="padding-right:10px;" src="https://www.svgrepo.com/show/431792/meta.svg" /> 
-      Meta Frontend Developer Certificate - Planned Completion 6/24
+      Meta Frontend Developer Certificate - Planned Completion 10/24
     </li>
   </ul>
 </section>
