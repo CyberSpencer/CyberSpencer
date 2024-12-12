@@ -38,7 +38,7 @@
 </section>
 
 <section>
-  <<h2>📜 IT Certifications</h2>
+  <h2>📜 IT Certifications</h2>
 <ul>
   <li>
     <img align="left" alt="Google Cybersecurity Certificate" title="Google Cybersecurity Certificate" width="20px" style="padding-right:10px;" src="https://i.imgur.com/SQdMaeS.png" />
