@@ -110,20 +110,6 @@
 </section>
 
 <section>
-  <h2>📺 Referenced YouTube Videos</h2>
-  <ul>
-    <li>
-    <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <a href="https://www.youtube.com/watch?v=mRMmlo_Uqcs">Network Chuck Python Barista</a>
-    </li>
-    <li>
-    <img align="left" alt="HTML5" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <a href="https://www.youtube.com/watch?v=zgqfWLHNKLk">How to Create a Portfolio on Github</a>
-  </li>
- </ul>
-</section>
-
-<section>
   <h2>🤳 Connect with me</h2>
   <ul>
     <li>
