@@ -2,7 +2,7 @@
 
 **Founder & CEO at [AI Integrations](https://www.aiintegrations.ai)**
 
-I build AI products and business software, from chat and voice assistants to data-rich dashboards and workflow automation. My work spans web, mobile, and desktop applications, plus the services that connect them.
+I build AI products and business software, from chat and voice assistants to data-rich dashboards, AI agents, and agentic workflows. My work spans web, mobile, and desktop applications, plus the services that connect them.
 
 At AI Integrations, I lead product direction, AI development, cybersecurity, and delivery. My infrastructure experience includes local, open-weight inference on an **NVIDIA DGX Spark cluster**, alongside hosted model APIs.
 
@@ -13,8 +13,6 @@ At AI Integrations, I lead product direction, AI development, cybersecurity, and
 - **Data and knowledge systems:** collecting, extracting, organizing, and retrieving information from documents, websites, and business data.
 - **Product delivery:** the onboarding, account management, billing, administration, testing, monitoring, and release work that makes a product usable beyond a demo.
 
-One public example is our **[HEIC → JPG Converter](https://github.com/AI-Integrations/Heic-Jpg)**, a desktop app for local batch image conversion on macOS and Windows.
-
 ## AI tools I work with
 
 | Work | Tools and experience |
@@ -23,9 +21,15 @@ One public example is our **[HEIC → JPG Converter](https://github.com/AI-Integ
 | Machine learning frameworks | PyTorch, TensorFlow |
 | Hosted model APIs | [OpenAI](https://developers.openai.com/api/docs), [Anthropic](https://platform.claude.com/docs/en/home), [Grok API](https://docs.x.ai/overview) (xAI / SpaceX Super Intelligence), [OpenRouter](https://openrouter.ai/docs/quickstart), OpenAI-compatible endpoints |
 | Coding and review | Cursor models and CLI, Codex, Claude Code |
-| Agent workflows | Hermes for local-model task execution; Grok Bot for work across connected business apps; MCP tools and API integrations |
 | Retrieval and data | Vector stores, RAG, semantic search, PostgreSQL with pgvector, MongoDB |
-| Model comparison | Artificial Analysis; selecting models for the task, capability, and cost |
+| Model comparison and tuning | Artificial Analysis; our own benchmarks, reinforcement learning (RL) fine-tuning, and LoRA tuning |
+
+**AI Agent tools and agentic workflows**
+
+- n8n
+- LangChain and LangGraph
+- Hermes, Grok Bot, opencode, and Pi agent
+- MCP tools and API integrations
 
 ## Languages, platforms, and frameworks
 
@@ -72,13 +76,11 @@ One public example is our **[HEIC → JPG Converter](https://github.com/AI-Integ
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-9E3B10?style=flat-square)](https://github.com/CyberSpencer/Burp-Suite)
 [![Nmap](https://img.shields.io/badge/Nmap-284B63?style=flat-square)](https://github.com/CyberSpencer/Nmap-)
 
-My security work includes [access controls, request validation, rate limiting, verified webhooks, managed secrets, and monitoring](https://www.aiintegrations.ai/security).
-
 **Frameworks and requirements:** NIST CSF, CMMC, SOC 2, GDPR, HIPAA, and PCI DSS.
 
 ## Background
 
-I started programming more than a decade ago and launched my first tech business as a teenager. My background spans data systems, cybersecurity, and mountain guiding, where I learned to lead teams and make decisions under pressure.
+I started programming more than a decade ago. My first tech business, which I launched as a teenager, focused on data analytics and machine learning. My background spans data systems, cybersecurity, and mountain guiding, where I learned to lead teams and make decisions under pressure.
 
 ## Certifications
 
