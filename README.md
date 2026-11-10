@@ -21,15 +21,9 @@ At AI Integrations, I lead product direction, AI development, cybersecurity, and
 | Machine learning frameworks | PyTorch, TensorFlow |
 | Hosted model APIs | [OpenAI](https://developers.openai.com/api/docs), [Anthropic](https://platform.claude.com/docs/en/home), [Grok API](https://docs.x.ai/overview) (xAI / SpaceX Super Intelligence), [OpenRouter](https://openrouter.ai/docs/quickstart), OpenAI-compatible endpoints |
 | Coding and review | Cursor models and CLI, Codex, Claude Code |
+| AI Agent tools and agentic workflows | n8n, LangChain, LangGraph, Hermes, Grok Bot, opencode, Pi agent, MCP tools, API integrations |
 | Retrieval and data | Vector stores, RAG, semantic search, PostgreSQL with pgvector, MongoDB |
 | Model comparison and tuning | Artificial Analysis; our own benchmarks, reinforcement learning (RL) fine-tuning, and LoRA tuning |
-
-**AI Agent tools and agentic workflows**
-
-- n8n
-- LangChain and LangGraph
-- Hermes, Grok Bot, opencode, and Pi agent
-- MCP tools and API integrations
 
 ## Languages, platforms, and frameworks
 
