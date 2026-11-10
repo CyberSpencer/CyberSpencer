@@ -60,6 +60,11 @@ One public example is our **[HEIC → JPG Converter](https://github.com/AI-Integ
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
+**Machine learning frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-AE351A?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-9C4F00?style=flat-square&logo=tensorflow&logoColor=white)
+
 **Cloud and systems**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
