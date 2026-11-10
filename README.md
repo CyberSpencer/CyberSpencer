@@ -20,6 +20,7 @@ One public example is our **[HEIC → JPG Converter](https://github.com/AI-Integ
 | Work | Tools and experience |
 | --- | --- |
 | Local inference | SGLang, vLLM, llama.cpp, open-weight models |
+| Machine learning frameworks | PyTorch, TensorFlow |
 | Hosted model APIs | [OpenAI](https://developers.openai.com/api/docs), [Anthropic](https://platform.claude.com/docs/en/home), [Grok API](https://docs.x.ai/overview) (xAI / SpaceX Super Intelligence), [OpenRouter](https://openrouter.ai/docs/quickstart), OpenAI-compatible endpoints |
 | Coding and review | Cursor models and CLI, Codex, Claude Code |
 | Agent workflows | Hermes for local-model task execution; Grok Bot for work across connected business apps; MCP tools and API integrations |
@@ -28,61 +29,52 @@ One public example is our **[HEIC → JPG Converter](https://github.com/AI-Integ
 
 ## Languages, platforms, and frameworks
 
-**Programming and query languages**
+**Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-006D7A?style=flat-square&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-A63D1B?style=flat-square&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0C546E?style=flat-square&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![Go](https://img.shields.io/badge/Go-006D7A?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-A63D1B?style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-0C546E?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-
-**Scripting and automation**
-
-![Bash and Zsh](https://img.shields.io/badge/Bash%20%26%20Zsh-29343D?style=flat-square&logo=gnubash&logoColor=white)
+![Bash and Zsh](https://img.shields.io/badge/Bash%20%26%20Zsh-29343D?style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-234A76?style=flat-square)
 ![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square)
-
-**Native helpers and tooling**
-
-![C](https://img.shields.io/badge/C-434C5E?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-434C5E?style=flat-square)
 ![Objective-C](https://img.shields.io/badge/Objective--C-434C5E?style=flat-square)
 
-**Web standards, runtimes, and frameworks**
+**Apps and web**
 
-![Node.js](https://img.shields.io/badge/Node.js-315B24?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-115E72?style=flat-square&logo=tailwindcss&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-2A6728?style=flat-square&logo=qt&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-C4471D?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
-**Machine learning frameworks**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-AE351A?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-9C4F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-315B24?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-222222?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-115E72?style=flat-square)
+![PySide6](https://img.shields.io/badge/PySide6-2A6728?style=flat-square)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-C4471D?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
 
 **Cloud and systems**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-005A9E?style=flat-square)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-3157A4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-155B8A?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-3157A4?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-155B8A?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square)
 
 ## Security
 
-[![Splunk](https://img.shields.io/badge/Splunk-222222?style=flat-square&logo=splunk&logoColor=white)](https://www.splunk.com/)
-[![Chronicle](https://img.shields.io/badge/Chronicle-1A4D8F?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/security/products/security-operations)
-[![Wireshark](https://img.shields.io/badge/Wireshark-115C86?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![TCPDump](https://img.shields.io/badge/TCPDump-36495B?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJtNCA1IDcgNy03IDdtMTAgMGg3Ii8%2BPC9zdmc%2B)](https://www.tcpdump.org/)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-9E3B10?style=flat-square&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![Nmap](https://img.shields.io/badge/Nmap-284B63?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjQuNSIvPjxwYXRoIGQ9Ik0xMiAzdjlsNi02Ii8%2BPC9nPjxjaXJjbGUgY3g9IjgiIGN5PSIxNSIgcj0iMS41IiBmaWxsPSIjZmZmIi8%2BPC9zdmc%2B)](https://nmap.org/)
+[![Splunk](https://img.shields.io/badge/Splunk-222222?style=flat-square)](https://www.splunk.com/)
+[![Google SecOps (Chronicle)](https://img.shields.io/badge/Google_SecOps_%28Chronicle%29-1A4D8F?style=flat-square)](https://cloud.google.com/security/products/security-operations)
+[![Wireshark](https://img.shields.io/badge/Wireshark-115C86?style=flat-square)](https://github.com/CyberSpencer/Wireshark-for-Beginners-Capture-Packets)
+[![TCPDump](https://img.shields.io/badge/TCPDump-36495B?style=flat-square)](https://github.com/CyberSpencer/TCPDump-Network-Analysis)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-9E3B10?style=flat-square)](https://github.com/CyberSpencer/Burp-Suite)
+[![Nmap](https://img.shields.io/badge/Nmap-284B63?style=flat-square)](https://github.com/CyberSpencer/Nmap-)
 
-**Frameworks and requirements:** familiarity with NIST CSF, CMMC, SOC 2, GDPR, HIPAA, and PCI DSS.
+My security work includes [access controls, request validation, rate limiting, verified webhooks, managed secrets, and monitoring](https://www.aiintegrations.ai/security).
+
+**Frameworks and requirements:** NIST CSF, CMMC, SOC 2, GDPR, HIPAA, and PCI DSS.
 
 ## Background
 
@@ -92,7 +84,6 @@ I started programming more than a decade ago and launched my first tech business
 
 - **Google Cybersecurity Certificate** — [View Certificate](https://coursera.org/share/b8b0a760b6c84785767d1b0cb3d85454)
 - **IBM Windows Defender & Firewall** — [View Certificate](https://coursera.org/share/5eab200d75ada9b2cc6b24e05c7dda16)
-- **Meta Frontend Developer Certificate** <!-- TODO: Add certificate link when available -->
 
 <details>
 <summary>Earlier security and Python projects</summary>
