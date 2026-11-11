@@ -21,7 +21,7 @@ At AI Integrations, I lead product direction, AI development, cybersecurity, and
 | --- | --- |
 | Local inference | SGLang, vLLM, llama.cpp, open-weight models |
 | Hosted model APIs | [OpenAI](https://developers.openai.com/api/docs), [Anthropic](https://platform.claude.com/docs/en/home), [Grok API](https://docs.x.ai/overview) (xAI / SpaceX Super Intelligence), [OpenRouter](https://openrouter.ai/docs/quickstart), OpenAI-compatible endpoints |
-| Coding and review | Cursor models and CLI, Codex, Claude Code |
+| Coding and review | Codex, Claude Code, Cursor, CodeRabbit |
 | AI Agent tools and agentic workflows | n8n, LangChain, LangGraph, Hermes, Grok Bot, opencode, Pi agent, MCP tools, API integrations |
 | Retrieval and data | Vector stores, RAG, semantic search, PostgreSQL with pgvector, MongoDB |
 | Model comparison | Artificial Analysis, our own benchmarks |
