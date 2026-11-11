@@ -2,7 +2,7 @@
 
 **Founder & CEO at [AI Integrations](https://www.aiintegrations.ai)**
 
-I build AI products and business software, from chat and voice assistants to data-rich dashboards, AI agents, and agentic workflows. My work spans web, mobile, and desktop applications, plus the services that connect them.
+I build AI products and business software, from chat and voice assistants to data-rich dashboards, AI agents and workflow automation. My work spans web, mobile, and desktop applications, plus the services that connect them.
 
 At AI Integrations, I lead product direction, AI development, cybersecurity, and delivery. My infrastructure experience includes local, open-weight inference on an **NVIDIA DGX Spark cluster**, alongside hosted model APIs.
 
@@ -18,12 +18,12 @@ At AI Integrations, I lead product direction, AI development, cybersecurity, and
 | Work | Tools and experience |
 | --- | --- |
 | Local inference | SGLang, vLLM, llama.cpp, open-weight models |
-| Machine learning frameworks | PyTorch, TensorFlow |
 | Hosted model APIs | [OpenAI](https://developers.openai.com/api/docs), [Anthropic](https://platform.claude.com/docs/en/home), [Grok API](https://docs.x.ai/overview) (xAI / SpaceX Super Intelligence), [OpenRouter](https://openrouter.ai/docs/quickstart), OpenAI-compatible endpoints |
 | Coding and review | Cursor models and CLI, Codex, Claude Code |
 | AI Agent tools and agentic workflows | n8n, LangChain, LangGraph, Hermes, Grok Bot, opencode, Pi agent, MCP tools, API integrations |
 | Retrieval and data | Vector stores, RAG, semantic search, PostgreSQL with pgvector, MongoDB |
-| Model comparison and tuning | Artificial Analysis; our own benchmarks, reinforcement learning (RL) fine-tuning, and LoRA tuning |
+| Model comparison | Artificial Analysis |
+| Training and tuning | PyTorch, TensorFlow, LoRA and RL fine-tuning, our own benchmarks |
 
 ## Languages, platforms, and frameworks
 
