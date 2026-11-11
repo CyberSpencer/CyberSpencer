@@ -2,16 +2,18 @@
 
 **Founder & CEO at [AI Integrations](https://www.aiintegrations.ai)**
 
-I build AI products and business software, from chat and voice assistants to data-rich dashboards, AI agents and workflow automation. My work spans web, mobile, and desktop applications, plus the services that connect them.
+I build AI agents, automations, and systems, turning the latest AI capabilities into useful web, mobile, and desktop applications.
 
-At AI Integrations, I lead product direction, AI development, cybersecurity, and delivery. My infrastructure experience includes local, open-weight inference on an **NVIDIA DGX Spark cluster**, alongside hosted model APIs.
+I've been building AI and data systems for over a decade. My first tech business, started as a teenager, was an automotive valuation tool that analyzed millions of auction data points to find vehicles priced below wholesale value.
+
+At AI Integrations, I lead product direction, AI development, cybersecurity, and delivery. My work includes hosted model APIs, local inference on an **NVIDIA DGX Spark cluster**, custom benchmarks, and fine-tuning open-weight models for specific tasks.
 
 ## What I build
 
+- **AI agents and agentic workflows:** coding, outreach, social media management, and automation across connected business tools.
 - **[AiVA](https://www.aiintegrations.ai/chat):** website chat and voice assistants for customer questions, lead capture, and connected booking and commerce workflows, including Square integrations.
-- **Business applications:** operational dashboards, customer and order workflows, and integrations with the software a team already uses.
-- **Data and knowledge systems:** collecting, extracting, organizing, and retrieving information from documents, websites, and business data.
-- **Product delivery:** the onboarding, account management, billing, administration, testing, monitoring, and release work that makes a product usable beyond a demo.
+- **Business software:** inventory management, custom CRMs, financial analytics, and custom dashboards.
+- **Specialized AI applications:** accounting and legal assistants, tutoring systems, and children's book applications.
 
 ## AI tools I work with
 
@@ -22,8 +24,8 @@ At AI Integrations, I lead product direction, AI development, cybersecurity, and
 | Coding and review | Cursor models and CLI, Codex, Claude Code |
 | AI Agent tools and agentic workflows | n8n, LangChain, LangGraph, Hermes, Grok Bot, opencode, Pi agent, MCP tools, API integrations |
 | Retrieval and data | Vector stores, RAG, semantic search, PostgreSQL with pgvector, MongoDB |
-| Model comparison | Artificial Analysis |
-| Training and tuning | PyTorch, TensorFlow, LoRA and RL fine-tuning, our own benchmarks |
+| Model comparison | Artificial Analysis, our own benchmarks |
+| Model tuning | PyTorch, TensorFlow; RL and LoRA fine-tuning of existing open-weight models |
 
 ## Languages, platforms, and frameworks
 
@@ -74,7 +76,7 @@ At AI Integrations, I lead product direction, AI development, cybersecurity, and
 
 ## Background
 
-I started programming more than a decade ago. My first tech business, which I launched as a teenager, focused on data analytics and machine learning. My background spans data systems, cybersecurity, and mountain guiding, where I learned to lead teams and make decisions under pressure.
+My background spans data analytics, machine learning, cybersecurity, and mountain guiding, where I learned to lead teams and make decisions under pressure.
 
 ## Certifications
 
